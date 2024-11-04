@@ -18,6 +18,8 @@ Particle physics' ambition to answer some of the most profound questions humanit
 
 Yet, as thrilling as it sounds, the reality of this field is not without its challenges. 
 
+![The SM particles](@assets/images/SM_graphic-FINAL_T01.jpg)
+
 ## 20th Century - the Golden Age
 
 One of the cornerstones of particle physics is the Standard Model (SM) - a robust framework that has successfully described the interactions of fundamental particles through the electromagnetic, weak, and strong forces. The SM is a triumph of modern physics, predicting and explaining a vast range of phenomena with remarkable accuracy. It unifies our understanding of particles like quarks, leptons, and bosons, each contributing to the structure and function of the universe as we know it. 
