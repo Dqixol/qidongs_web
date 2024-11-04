@@ -12,6 +12,8 @@ description:
 
 I am thrilled to announce that I have submitted my PhD thesis, entitled **"Novel Boosted lep-had di-tau Reconstruction Techniques for TeV-Scale Graviton Search in HH->bbττ Channel with the ATLAS Detector."**
 
+![Thesis Cover](@assets/images/thesis_cover.png)
+
 This journey has been an incredible experience, and I want to express my heartfelt gratitude to my supervisor, **Prof. Terry Wyatt FRS**, for his invaluable guidance, support, and patience throughout this process. Your insights and encouragement have significantly shaped my research and academic growth.
 
 I would also like to extend my thanks to **The University of Manchester** and the **ATLAS collaboration at CERN**. It has been an honor to work alongside some of the best particle physicists and contribute to our understanding of the universe.
