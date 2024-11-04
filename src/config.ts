@@ -6,7 +6,7 @@ export const SITE: Site = {
   profile: "https://blog.mushy.mom/",
   desc: "Sharing thoughts and experiences - a LHC scientist's perspective",
   title: "Dong's personal blog",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "og.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 10,
