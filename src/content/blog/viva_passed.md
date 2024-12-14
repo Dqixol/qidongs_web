@@ -8,7 +8,7 @@ tags:
     - PhD
     - thesis defense
 description:
-    "Joining the ATLAS Team as a PDRA at Oxford"
+    "Passed thesis defense with minor corrections!"
 ---
 
 ![Viva-Celebration](@assets/images/Viva_celebration.png)
