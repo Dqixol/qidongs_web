@@ -2,7 +2,7 @@
 author: Dong Qichen
 pubDatetime: 2024-11-03T15:20:35Z
 title: The Standard Model - the Good
-featured: true
+featured: false
 draft: false
 tags: 
     - Standard Model
