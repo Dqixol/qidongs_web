@@ -7,6 +7,7 @@ import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
 import IconFacebook from "@/assets/icons/IconFacebook.svg";
 import IconTelegram from "@/assets/icons/IconTelegram.svg";
 import IconPinterest from "@/assets/icons/IconPinterest.svg";
+import IconGitLab from "@/assets/icons/IconGitLab.svg";
 import { SITE } from "@/config";
 
 interface Social {
@@ -19,26 +20,26 @@ interface Social {
 export const SOCIALS: Social[] = [
   {
     name: "GitHub",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on GitHub`,
+    href: "https://github.com/dqixol",
+    linkTitle: `${SITE.author} on GitHub`,
     icon: IconGitHub,
   },
   {
-    name: "X",
-    href: "https://x.com/username",
-    linkTitle: `${SITE.title} on X`,
-    icon: IconBrandX,
+    name: "GitLab",
+    href: "https://gitlab.cern.ch/qidong",
+    linkTitle: `${SITE.author} on GitLab`,
+    icon: IconGitLab,
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/username/",
-    linkTitle: `${SITE.title} on LinkedIn`,
+    href: "https://www.linkedin.com/in/qichendong/",
+    linkTitle: `${SITE.author} on LinkedIn`,
     icon: IconLinkedin,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
+    href: "mailto:dong.qichen@cern.ch",
+    linkTitle: `Send an email to ${SITE.author}`,
     icon: IconMail,
   },
 ] as const;
