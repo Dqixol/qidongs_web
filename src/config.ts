@@ -3,7 +3,7 @@ export const SITE = {
   author: "Dong Qichen",
   profile: "https://blog.dqixol.online/",
   desc: "Sharing thoughts and experiences - a LHC scientist's perspective",
-  title: "Dong's personal blog",
+  title: "Dong's blog",
   ogImage: "og.png",
   dynamicOgImage: true,
   lightAndDarkMode: true,
@@ -13,9 +13,9 @@ export const SITE = {
   showArchives: true,
   showBackButton: true, // show back button in post detail
   editPost: {
-    enabled: true,
+    enabled: false,
     text: "Edit page",
-    url: "https://github.com/dqixol/qidongs-web/edit/main/",
+    url: "https://github.com/Dqixol/qidongs_web/edit/main/",
   },
   dir: "ltr", // "rtl" | "auto"
   lang: "en", // html lang code. Set this empty and default will be "en"
