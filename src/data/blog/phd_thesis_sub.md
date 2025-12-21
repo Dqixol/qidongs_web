@@ -10,7 +10,7 @@ description:
     "Novel Boosted lep-had di-tau Reconstruction Techniques for TeV-Scale Graviton Search in HH→bbττ Channel with the ATLAS Detector"
 ---
 
-I am thrilled to announce that I have submitted my PhD thesis, entitled **"Novel Boosted lep-had di-tau Reconstruction Techniques for TeV-Scale Graviton Search in HH->bbττ Channel with the ATLAS Detector."**
+I am thrilled to announce that I have submitted my PhD thesis, entitled **"Novel Boosted $\tau_\mathrm{lep}\tau_\mathrm{had}$ Reconstruction Techniques for TeV-Scale Graviton Search in $HH\to bb\tau\tau$ Channel with the ATLAS Detector."**
 
 ![Thesis Cover](@/assets/images/thesis_cover.png)
 

@@ -27,7 +27,7 @@ One aspect I am particularly excited about is the opportunity to work with Oxfor
 
 ### Looking Forward to Future Discoveries
 
-As I take on this new role, I am eager to dive into the research and contribute to the ATLAS experiment’s mission. This opportunity is not just about advancing my career—it is about contributing to a larger scientific effort that has the potential to change our understanding of the universe. 
+As I take on this new role, I am eager to dive into the research and contribute to the ATLAS experiment’s mission. This opportunity is not just about advancing my career - it is about contributing to a larger scientific effort that has the potential to change our understanding of the universe. 
 
 I am grateful to the University of Oxford and the ATLAS team for this opportunity, and I look forward to the exciting challenges and discoveries that lie ahead. Thank you to everyone who has supported me in this journey so far. I am beyond excited to see where this experience will lead and to play a part in advancing the field of particle physics. 
 
